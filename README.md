@@ -4,7 +4,7 @@
 
 ## About the project
 
-3D Simulation of the Earth at night with a starry background.
+3D Simulation of the Earth with a starry background.
 
 
 
